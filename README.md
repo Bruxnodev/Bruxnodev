@@ -23,6 +23,8 @@ Os códigos apresentados seguem os padrões industriais e incluem comentários d
 🛠️ Projeto em desenvolvimento contínuo — novos códigos e operações serão adicionados conforme o avanço do curso e meus estudos práticos.
 
 ## 🗂️ Arquivos Disponíveis
+- [`O3001.nc`](https://github.com/Bruxnodev/CNC_EIXO_ESCALONADO_COM_RAIOS_FANUC_0ITD_GL240M_ROMI/blob/main/O3001.nc): Código-fonte do programa em G-Code para execução direta na máquina.
+- [`O0001.nc`](https://github.com/Bruxnodev/-Programa_CNC_O0001_Faceamento_de_Placa_200x100mm/blob/main/O0001.nc): Código-fonte completo em G-Code para faceamento da placa (200x100mm).
 
 
 **Github exclusivo para o projeto ROMI Works – Programação CNC Aplicada**

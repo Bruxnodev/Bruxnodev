@@ -27,4 +27,4 @@ Os códigos apresentados seguem os padrões industriais e incluem comentários d
 - [`O3001.nc`](V1.PROGRAMA_O3001.nc): Código-fonte do programa em G-Code para execução direta na máquina.
 - [`O0001.nc`](./O0001.nc): Código-fonte completo em G-Code para faceamento da placa.
 
-**Github exclusivo para o projeto ROMI Works – Programação CNC Aplicada
+**Github exclusivo para o projeto ROMI Works – Programação CNC Aplicada**

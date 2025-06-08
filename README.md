@@ -23,6 +23,5 @@ Os códigos apresentados seguem os padrões industriais e incluem comentários d
 🛠️ Projeto em desenvolvimento contínuo — novos códigos e operações serão adicionados conforme o avanço do curso e meus estudos práticos.
 
 ## 🗂️ Arquivos Disponíveis
-- [`O3001.nc`](V1.PROGRAMA_O3001.nc): Código-fonte do programa em G-Code para execução direta na máquina.
 
 **Github exclusivo para o projeto ROMI Works – Programação CNC Aplicada**

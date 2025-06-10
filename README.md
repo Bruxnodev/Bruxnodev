@@ -23,8 +23,8 @@ Os códigos apresentados seguem os padrões industriais e incluem comentários d
 🛠️ Projeto em desenvolvimento contínuo — novos códigos e operações serão adicionados conforme o avanço do curso e meus estudos práticos.
 
 ## 🗂️ Arquivos Disponíveis
+- [`O1025.nc`](https://github.com/Bruxnodev/PECA-1025-FLANGE-EIXO): Código-fonte do programa em G‑Code para execução direta na máquina.
 - [`O3001.nc`](https://github.com/Bruxnodev/CNC_EIXO_ESCALONADO_COM_RAIOS_FANUC_0ITD_GL240M_ROMI): Código-fonte do programa em G‑Code para execução direta na máquina.
-
 - [`O0001.nc`](https://github.com/Bruxnodev/-Programa_CNC_O0001_Faceamento_de_Placa_200x100mm/blob/main/O0001.nc):Código-fonte do programa em G‑Code para execução direta na máquina.
 - [`O0099.nc`](https://github.com/Bruxnodev/fanuc-eixo-raiado-gl240m): Código-fonte do programa em G‑Code para execução direta na máquina.
 

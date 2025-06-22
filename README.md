@@ -28,5 +28,6 @@ Os códigos apresentados seguem os padrões industriais e incluem comentários d
 - [`O0001.nc`](https://github.com/Bruxnodev/-Programa_CNC_O0001_Faceamento_de_Placa_200x100mm/blob/main/O0001.nc):Código-fonte do programa em G‑Code para execução direta na máquina.
 - [`O0099.nc`](https://github.com/Bruxnodev/fanuc-eixo-raiado-gl240m): Código-fonte do programa em G‑Code para execução direta na máquina.
 - [`O0100.nc`](https://github.com/Bruxnodev/pe-a-cil-ndrica-em-um-torno-CNC/tree/main): Código-fonte do programa em G‑Code para execução direta na máquina.
+- [`O0200.nc`](https://github.com/Bruxnodev/centrodeusinagem_sinumerick828D): Código-fonte do programa em G‑Code para execução direta na máquina.
 
 **Github exclusivo para o projeto ROMI Works – Programação CNC Aplicada**
